@@ -1,2 +1,2 @@
-# wi22a-is-gruppe5
-Integrationsseminar Gruppe 5
+# Integrationsseminar Gruppe 5
+Modul Integrationsseminar an der Dualen Hochschule Baden-Württemberg Mosbach, Kurs WI22A, Projektgruppe 5.
